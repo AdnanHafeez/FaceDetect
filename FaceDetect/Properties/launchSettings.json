@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FaceDetect": {
+      "commandName": "Project",
+      "commandLineArgs": "0f5c160731d84f5caf659fa84ce99660 \"C:\\Users\\Adnan\\Desktop\\Adnan_Slack1.jpg\""
+    }
+  }
+}
